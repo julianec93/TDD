@@ -1,3 +1,3 @@
 # TDD
 
-Exercices réalisé avec Tiffany TRAN
+Exercices réalisés avec Tiffany TRAN
