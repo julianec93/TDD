@@ -1,3 +1,3 @@
 # TDD
 
-Exercices réalisés avec Tiffany TRAN
+Exercices réalisés par Tiffany TRAN et Juliane COURIOL
